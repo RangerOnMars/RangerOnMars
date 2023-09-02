@@ -2,12 +2,8 @@
 
 I'm Hao Gu, an undergraduate from Shenyang Aerospace University.
 
-- 🔭 I’m currently working on:   
-  Deep Learning   
-  SLAM   
-- 📫 How to reach me:  You may contact me through:   
-  email:guhao0521@gmail.com   
-  QQ:1376072616   
+- 🔭 I’m currently working on: Deep Learning, SLAM
+- 📫 How to reach me:  You may contact me through: Email:guhao0521@gmail.com, QQ:1376072616   
 
 
 <div align="center">
