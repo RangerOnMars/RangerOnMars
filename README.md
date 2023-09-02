@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm Hao Gu, an undergraduate from Shenyang Aerospace University.
+#### I'm Hao Gu, an undergraduate from Shenyang Aerospace University.
 
 - 🔭 I’m currently working on: Deep Learning, SLAM
+- 💻 I'm currently working for: TUP Robotics Lab(Vision Crew), Finnox Innovation(Algorithm Developer)
+- 🦾 My main programming languages are: C++, Python
 - 📫 How to reach me:  You may contact me through: Email: guhao0521@gmail.com, QQ: 1376072616   
 
 
